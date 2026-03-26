@@ -218,5 +218,4 @@ BACKEND (FastAPI)
 
 ## 👩‍💻 Author
 
-**Sami Noor Saifi**  
-AI/ML Developer • Student • Creator of hireHEAD
+Sami Noor Saifi
